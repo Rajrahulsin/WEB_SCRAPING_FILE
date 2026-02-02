@@ -25,13 +25,13 @@ This is part of my learning journey in Data Science.
 
 - WEB_SCRAPING_FILE.ipynb – Main notebook file
 
-##🚀 How to Run
+🚀 How to Run
 
 1. Download the `.ipynb` file
 2. Open it in Jupyter Notebook / JupyterLab
 3. Run cells step by step
 
- ##🙋 Author
+ 🙋 Author
 
 Rahul raj Singh 
 
